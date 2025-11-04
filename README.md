@@ -113,7 +113,7 @@
 ---
 
 ## เปอร์เซ็นงานของแต่ละคน
-**ฝ่าย Data — 50%**  
+**นางสาววริษฐา ภิรมย์เกียรติ์ — รหัสนิสิต 6610505551**  
 - สปลิตข้อมูล/จัดโครงสร้าง ImageFolder — 15%  
 - Data hygiene & balancing เบื้องต้น — 8%  
 - Data pipeline (transforms, dataloaders, workers) — 10%  
@@ -121,7 +121,7 @@
 - วิเคราะห์ข้อมูล (class distribution, ตัวอย่างภาพ) — 5%  
 - เอกสารฝั่ง Data — 5%
 
-**ฝ่าย Model — 50%**  
+**นางสาวเปรมมิกา เนียมเปรม — รหัสนิสิต 6610505489**  
 - ออกแบบหัวคัสตอม (Conv3×3→BN→ReLU→SE→GAP→Dropout→FC) — 15%  
 - ประกอบกับ ResNet18 (`build_model`, `set_backbone_trainable`) — 8%  
 - เทรน (freeze→unfreeze, AdamW, ReduceLROnPlateau, AMP, clip, early stop) — 12%  
