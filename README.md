@@ -140,3 +140,4 @@
 ### ไฟล์ที่ต้องส่ง
 - `final_report.pdf` (ไฟล์รายงาน)  
 - ลิงก์ GitHub repository (โค้ด/โน้ตบุ๊ก + อาร์ติแฟกต์ที่สำคัญ)
+   - ไฟล์ README.md ที่แปลงจาก `final_report.pdf`
