@@ -130,6 +130,11 @@
 - เอกสารฝั่ง Model — 2%
 
 ---
+## Current Scope & Limitations
+
+- The model is trained and evaluated in an offline setting using static images (in Google Colab).
+- Real-time inference (e.g., from a webcam or video stream) is not implemented in this project.
+- However, the trained model can be exported (e.g., ONNX) and integrated into a real-time system in future work.
 
 ## ภาคผนวก
 ### คำสั่งรัน (Colab/Notebook)
